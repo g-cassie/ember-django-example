@@ -1,0 +1,42 @@
+
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+build
+eggs
+parts
+var
+sdist
+develop-eggs
+.installed.cfg
+reports
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+# environment variables
+.env
+
+# redis
+django/dump.rdb
+
+# Node
+npm-debug.log
+node_modules
+/assets/assets/node_modules
+
+# OS
+.DS_Store
+
