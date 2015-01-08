@@ -1,0 +1,4 @@
+Django==1.7.2
+djangorestframework==3.0.2
+emberdrf==0.1.7
+wsgiref==0.1.2
